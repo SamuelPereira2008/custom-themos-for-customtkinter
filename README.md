@@ -1,4 +1,4 @@
-# custom-themos-for-customtkinter
+# custom-themes-for-customtkinter
 🎨 Temas para CustomTkinter
 Este repositório é uma coletânea de temas personalizados, modernos e de alta qualidade para o CustomTkinter. Nosso objetivo é fornecer uma variedade de estilos visuais para que seus projetos de interface gráfica (GUI) se destaquem, com uma estética profissional e paletas de cores que agradam aos olhos.
 
