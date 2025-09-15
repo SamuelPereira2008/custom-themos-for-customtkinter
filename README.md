@@ -27,7 +27,7 @@ Clone o Repositório
 
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio-de-temas.git
+git clone [Git Clone](https://github.com/SamuelPereira2008/custom-themos-for-customtkinter.git)
 Adicione o Tema ao seu Projeto
 Copie o arquivo .json do tema que você quer usar e coloque-o na pasta do seu projeto.
 
