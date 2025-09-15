@@ -16,9 +16,11 @@ Confira uma prévia de alguns dos temas que você pode encontrar aqui.
 
 1. Tema 'Dark-Red'
 Um tema escuro com toques de cor vibrante, perfeito para dashboards e ferramentas de desenvolvimento.
+![Dark-Red](https://github.com/SamuelPereira2008/custom-themos-for-customtkinter/blob/main/Dark-Red.jpeg)
 
-2. Tema 'Dark-Green'
+3. Tema 'Dark-Green'
 Uma paleta de cores clara e suave, ideal para aplicações de produtividade e organizadores.
+![Dark-Green](https://github.com/SamuelPereira2008/custom-themos-for-customtkinter/blob/main/Dark-Green.jpeg)
 
 🚀 Como Usar
 Clone o Repositório
