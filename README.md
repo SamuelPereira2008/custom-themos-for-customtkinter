@@ -34,8 +34,7 @@ Copie o arquivo .json do tema que você quer usar e coloque-o na pasta do seu pr
 Carregue o Tema no Código
 No seu arquivo Python, adicione a seguinte linha antes de criar a janela principal do CustomTkinter:
 
-Python
-
+```Python
 import customtkinter as ctk
 
 ctk.set_default_color_theme("caminho/para/seu/tema.json")
@@ -43,7 +42,7 @@ ctk.set_default_color_theme("caminho/para/seu/tema.json")
 app = ctk.CTk()
 # Adicione seus widgets aqui
 app.mainloop()
-
+```
 🤝 Contribuições
 Sua ajuda é muito bem-vinda! Se você tem um tema legal para compartilhar, uma ideia para melhorar este repositório ou encontrou algum problema, por favor, crie uma Issue ou envie um Pull Request.
 
